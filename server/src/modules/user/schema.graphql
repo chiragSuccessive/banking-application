@@ -1,0 +1,5 @@
+type user {
+    userId: String!
+    userName: String
+    contactNo: Number
+}

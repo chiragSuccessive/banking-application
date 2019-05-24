@@ -1,0 +1,9 @@
+type account {
+    userId: String!
+    accountNo: String!
+    bankName: String!
+    accountType: String
+    branch: String
+    balance: Number
+    transactionType: String!
+}
